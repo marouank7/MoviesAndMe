@@ -15,4 +15,5 @@ const SearchStackNavigator = createStackNavigator({
     }
 })
 
+
 export default createAppContainer(SearchStackNavigator)
