@@ -33,7 +33,7 @@ class Search extends React.Component {
   }
 
   _searchTextInputChanged(text) {
-    this.searchedText = text 
+    this.searchedText = text
   }
 
   _searchFilms() {
